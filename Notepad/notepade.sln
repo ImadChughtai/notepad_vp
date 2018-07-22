@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad", "notepade\Notepad.csproj", "{726D4E83-13A4-4BC5-A36B-053264D6D447}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{3FEC2A2B-660A-4ED4-A374-00366AF98934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726D4E83-13A4-4BC5-A36B-053264D6D447}.Debug|x86.ActiveCfg = Debug|x86
+		{726D4E83-13A4-4BC5-A36B-053264D6D447}.Debug|x86.Build.0 = Debug|x86
+		{726D4E83-13A4-4BC5-A36B-053264D6D447}.Release|x86.ActiveCfg = Release|x86
+		{726D4E83-13A4-4BC5-A36B-053264D6D447}.Release|x86.Build.0 = Release|x86
+		{3FEC2A2B-660A-4ED4-A374-00366AF98934}.Debug|x86.ActiveCfg = Debug
+		{3FEC2A2B-660A-4ED4-A374-00366AF98934}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
